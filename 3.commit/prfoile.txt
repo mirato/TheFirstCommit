@@ -1,2 +1,2 @@
-email :
-gitID :
+email : foodudt@gmail.com
+gitID : jhchoi2
